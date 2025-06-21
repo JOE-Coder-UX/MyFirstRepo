@@ -1,2 +1,1 @@
-# MyFirstRepo
-My first repo 
+This is my first repository created as part of a Github learning task
